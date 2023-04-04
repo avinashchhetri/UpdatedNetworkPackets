@@ -1,0 +1,14 @@
+TCP/UDP/... Sessions
+File: /home/avinash/Desktop/pcap/2/krishna.pcap, Type: tcpdump, Created at: Mon Apr  3 14:09:11 2023
+
+1    192.168.21.1:35688 <-> 192.168.21.7:22        (ssh)         16708 bytes
+"       session_0001.textSSH.replay                                 18 seconds
+"       session_0001.textSSH.html                                 2480 bytes
+"       session_0001.textSSH.keydata                               489 bytes
+2    192.168.21.7:40043 <-> 192.168.11.14:53       (domain)        336 bytes
+"       stream_0002.domain.html                                    438 bytes
+"       session_0002.domain.txt                                    551 bytes
+3    192.168.21.7:35480 -> 142.251.15.103:80       (http)        15198 bytes
+"       session_0003.http.html                                   20589 bytes
+"       session_0003.part_01.html                                14193 bytes
+4    0.0.0.0:68 <-> 255.255.255.255:67             (bootps)        288 bytes

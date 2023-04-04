@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UpdatedNetworkPackets:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UpdatedNetworkPackets_jar</output-path>
+    <root id="archive" name="UpdatedNetworkPackets.jar">
+      <element id="module-output" name="UpdatedNetworkPackets" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.15.3/jsoup-1.15.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/pcap4j/pcap4j-packetfactory-static/1.8.2/pcap4j-packetfactory-static-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/pcap4j/pcap4j-packetfactory-propertiesbased/1.8.2/pcap4j-packetfactory-propertiesbased-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/pcap4j/pcap4j-core/1.8.2/pcap4j-core-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
